@@ -11,7 +11,4 @@ My passion for software lies with dreaming up ideas and making them come true wi
 - 🎉 Fun Fact: My real name is Pratham 😁✨
 
 
-<!--
-HackerBadshah/HackerBadshah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Living To Die, Dying To Live -->

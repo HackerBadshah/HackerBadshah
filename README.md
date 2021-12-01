@@ -8,7 +8,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 - 👀 I’m interested in All Type Of Programming related stuff!
 - 🧐 Currently deepening my Programming skills!
 - 💬 Ask me anything , I would be happy to help 😄❤️ 
-- 🎉 Fun Fact: My real name is Pratham 😁✨
+- 🎉 Fun Fact: My real name is Pratham ✨😁
 
 
 <!-- Living To Die, Dying To Live -->
